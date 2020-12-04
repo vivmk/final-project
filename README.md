@@ -7,3 +7,5 @@ B.E final year project during year 2020 including:
 
 Paper published in IJRASET:
 [Click here](http://www.ijraset.com/fileserve.php?FID=29636)
+
+For the necessary weight and dataset files, send me a [mail](mailto:vivekhere01@gmail.com)
