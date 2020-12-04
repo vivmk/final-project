@@ -6,4 +6,5 @@ B.E final year project during year 2020 including:
 - Real-time Ethnicity Prediction
 
 [Click here](http://www.ijraset.com/fileserve.php?FID=29636) to read IJRASET published paper.
-For the necessary weight and dataset files, send me a [mail]("mailto:vivekhere01@gmail.com").
+
+For the necessary weight and dataset files, [ping]("https://t.me/vvekm") me on Telegram.
