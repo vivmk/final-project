@@ -7,7 +7,7 @@ B.E final year project during year 2020 including:
 
 [Click here](http://www.ijraset.com/fileserve.php?FID=29636) to read IJRASET published paper.
 
-For the necessary weight and dataset files, [ping](https://t.me/vvekm) me on Telegram.
+[Click here](https://cutt.ly/ohSu0L4) to download the necessary weight and dataset files.
 
 Credits for the project:
 https://github.com/serengil/tensorflow-101
