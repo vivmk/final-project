@@ -9,5 +9,5 @@ B.E final year project during year 2020 including:
 
 [Click here](https://cutt.ly/ohSu0L4) to download the necessary weight and dataset files.
 
-Credits for the project:
+Reference for the project:
 https://github.com/serengil/tensorflow-101
